@@ -18,3 +18,8 @@ type Content struct {
 type Identifier struct {
 	Authority string
 }
+
+type Result struct {
+	List string
+	Blog string
+}
